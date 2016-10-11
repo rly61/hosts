@@ -4,3 +4,78 @@
 # 平板小说网
 127.0.0.1 img.qiaomaijia.com
 127.0.0.1 znsv.baidu.com
+
+# Adobe Blocker
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+
+#qq广告
+0.0.0.0 fodder.qq.com
+0.0.0.0 adshmct.qq.com
+0.0.0.0 hm.l.qq.com
+0.0.0.0 adshmmsg.qq.com
+0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 v.gdt.qq.com
+0.0.0.0 s.gdt.qq.com
+0.0.0.0 imc.l.qq.com
+0.0.0.0 client.show.qq.com
+0.0.0.0 user1.game.qq.com
+0.0.0.0 c.gdt.qq.com
+0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 tj.b.qq.com
+0.0.0.0 dir.minigame.qq.com
+0.0.0.0 if.mingxing.qq.com
+0.0.0.0 showwxml.qq.com
+0.0.0.0 2052.flash2-http.qq.com
+0.0.0.0 img1.sj.qq.com
+0.0.0.0 ws.sj.qq.com
+0.0.0.0 scdown.qq.com
+0.0.0.0 img1.gtimg.com
+0.0.0.0 pinghot.qq.com
+0.0.0.0 pingfore.tenpay.com
+0.0.0.0 jqmt.qq.com
+0.0.0.0 gu.qlogo.cn
+0.0.0.0 py.qlogo.cn
+0.0.0.0 py2.qlogo.cn
+0.0.0.0 bugreportv2.qq.com
+0.0.0.0 ex.qq.com
+0.0.0.0 cgi.connect.qq.com
+
+#北邮人pt
+2001:da8:215:4078:250:56ff:fe97:654d bt.byr.cn
+2001:da8:215:4078:250:56ff:fe97:654d tracker.byr.cn
+
+#北洋园pt
+2001:da8:a000:113::170 pttracker4.tju.edu.cn
+2001:da8:a000:113::170 pt.tju6.edu.cn
+
+#六维空间
+2001:da8:9000::232 bt.neu6.edu.cn
+
+#清影pt
+2001:da8:b800:219:217:227:126:94 pt.hit.edu.cn
+
+#Google
+#2404:6800:4005:800::2005 www.google.com
+#2404:6800:4005:800::2005 mail.google.com
+#2404:6800:4005:80a::200e keep.google.com
+#2404:6800:4005:802::200e calendar.google.com
+#2404:6800:4008:c01::5e translate.google.cn
+#200:2:f3b9:bb27:: www.youtube.com
+
+#禁止玩游戏
+119.75.218.70 ssjj.4399.com
+119.75.218.70 news.4399.com
+
+#禁止爱拍
+119.75.218.70 cf.aipai.com
+
+#iptv
+2001:da8:9000::130 hdtv.neu6.edu.cn
+2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
+
+#禁止idm检查序列号
+127.0.0.1 registeridm.com
+127.0.0.1 www.registeridm.com
+127.0.0.1 www.internetdownloadmanager.com
+127.0.0.1 internetdownloadmanager.com
