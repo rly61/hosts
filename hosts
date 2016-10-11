@@ -1,0 +1,6 @@
+# 2016-10-11
+# 自用屏蔽广告hosts，小众网站
+
+# 平板小说网
+127.0.0.1 img.qiaomaijia.com
+127.0.0.1 znsv.baidu.com
