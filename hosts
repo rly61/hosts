@@ -1,9 +1,5 @@
-# 2016-10-11
+# 2016-11-13
 # 自用屏蔽广告hosts，小众网站
-
-# 平板小说网
-127.0.0.1 img.qiaomaijia.com
-127.0.0.1 znsv.baidu.com
 
 # Adobe Blocker
 127.0.0.1 lmlicenses.wip4.adobe.com
@@ -54,14 +50,6 @@
 
 #清影pt
 2001:da8:b800:219:217:227:126:94 pt.hit.edu.cn
-
-#Google
-#2404:6800:4005:800::2005 www.google.com
-#2404:6800:4005:800::2005 mail.google.com
-#2404:6800:4005:80a::200e keep.google.com
-#2404:6800:4005:802::200e calendar.google.com
-#2404:6800:4008:c01::5e translate.google.cn
-#200:2:f3b9:bb27:: www.youtube.com
 
 #禁止玩游戏
 119.75.218.70 ssjj.4399.com
