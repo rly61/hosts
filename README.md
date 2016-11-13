@@ -1,2 +1,2 @@
-# Ad-hosts
-自用屏蔽广告hosts
+# hosts
+自用各种广告hosts
