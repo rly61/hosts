@@ -12,3 +12,21 @@ security.ubuntu.com 2001:67c:1360:8001::17
 # canonical
 archive.canonical.com 2001:67c:1360:8c01::1b
 archive.canonical.com 2001:67c:1360:8c01::16
+
+#北邮人pt
+2001:da8:215:4078:250:56ff:fe97:654d bt.byr.cn
+2001:da8:215:4078:250:56ff:fe97:654d tracker.byr.cn
+
+#北洋园pt
+2001:da8:a000:113::170 pttracker4.tju.edu.cn
+2001:da8:a000:113::170 pt.tju6.edu.cn
+
+#六维空间
+2001:da8:9000::232 bt.neu6.edu.cn
+
+#清影pt
+2001:da8:b800:219:217:227:126:94 pt.hit.edu.cn
+
+#iptv
+2001:da8:9000::130 hdtv.neu6.edu.cn
+2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
