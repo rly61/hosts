@@ -21,3 +21,19 @@
 2400:cb00:2048:1::6810:2902 www.mozilla.org
 2400:cb00:2048:1::6810:2802 www.mozilla.org
 
+# 百度
+2400:da00::dbf:0:100 ipv6.baidu.com
+2400:da00::dbf:0:100 www.baidu.com
+2400:da00::dbf:0:6666 p.baidupcs.com
+2400:da00::dbf:0:6666 nj.baidupcs.com
+2400:da00::dbf:0:6666 bj.baidupcs.com
+2400:da00::dbf:0:6666 qd.baidupcs.com
+2400:da00::dbf:0:6666 qd.cache.baidupcs.com
+2400:da00::dbf:0:6666 nj.cache.baidupcs.com
+2400:da00::dbf:0:6666 cdn.baidupcs.com
+2400:da00::dbf:0:6666 hot.baidupcs.com
+2400:da00::dbf:0:6666 hot.cdn.baidupcs.com
+2400:da00::dbf:0:6666 www.baidupcs.com
+2400:da00::dbf:0:6666 d.pcs.baidu.com
+2400:da00::dbf:0:6666 pcs.baidu.com
+
