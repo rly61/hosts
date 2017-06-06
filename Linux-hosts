@@ -8,3 +8,7 @@ security.ubuntu.com 2001:67c:1562::19
 security.ubuntu.com 2001:67c:1560:8001::11
 security.ubuntu.com 2001:67c:1560:8001::14
 security.ubuntu.com 2001:67c:1360:8001::17
+
+# canonical
+archive.canonical.com 2001:67c:1360:8c01::1b
+archive.canonical.com 2001:67c:1360:8c01::16
