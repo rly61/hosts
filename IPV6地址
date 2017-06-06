@@ -16,3 +16,8 @@
 
 # Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
+
+# mozilla
+2400:cb00:2048:1::6810:2902 www.mozilla.org
+2400:cb00:2048:1::6810:2802 www.mozilla.org
+
