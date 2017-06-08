@@ -3,8 +3,17 @@
 
 位于教育网，能用ipv6，所以搜集ipv6地址，防止走流量和快速访问网页。
 
+一键该hosts工具：SwitchHosts。
+项目地址：https://github.com/oldj/SwitchHosts（多平台）
+
 ## Google-ipv6
 https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
+
+## 其它ipv6
+https://github.com/popcorner/cernet-ipv6-hosts/edit/master/hosts
+  - 包含google。
+  - 长时间未更新。
+  - 未测试
 
 ## 去广告
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
@@ -23,3 +32,4 @@ https://raw.githubusercontent.com/rly61/hosts/master/Windows-hosts
 
 ## Ubuntu自用
 https://raw.githubusercontent.com/rly61/hosts/master/Linux-hosts
+
