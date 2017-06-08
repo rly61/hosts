@@ -33,3 +33,7 @@ https://raw.githubusercontent.com/rly61/hosts/master/Windows-hosts
 ## Ubuntu自用
 https://raw.githubusercontent.com/rly61/hosts/master/Linux-hosts
 
+## Android自用
+配合翻墙+去广告，另自选该项目中hosts。
+https://github.com/neoFelhz/neohosts
+
