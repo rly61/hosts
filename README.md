@@ -3,8 +3,11 @@
 
 位于教育网，能用ipv6，所以搜集ipv6地址，防止走流量和快速访问网页。
 
-一键该hosts工具：SwitchHosts。
+* 一键更改hosts工具：SwitchHosts。
 项目地址：https://github.com/oldj/SwitchHosts（多平台）
+
+* Android 一键Go Hosts
+https://play.google.com/store/apps/details?id=com.lerist.ghosts
 
 ## Google-ipv6
 https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
