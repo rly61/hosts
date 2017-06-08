@@ -9,7 +9,7 @@
 2001:67c:1560:8001::14 security.ubuntu.com
 2001:67c:1360:8001::17 security.ubuntu.com
 
-# canonical
+# Canonical
 2001:67c:1360:8c01::1b archive.canonical.com
 2001:67c:1360:8c01::16 archive.canonical.com
 
@@ -27,6 +27,6 @@
 #清影pt
 2001:da8:b800:219:217:227:126:94 pt.hit.edu.cn
 
-#iptv
+#东北大学ipv6
 2001:da8:9000::130 hdtv.neu6.edu.cn
 2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
