@@ -1,4 +1,4 @@
-# 2016-11-13
+# 2017-06-19
 # 自用屏蔽广告hosts，小众网站
 
 # Adobe Blocker
@@ -67,3 +67,6 @@
 127.0.0.1 www.registeridm.com
 127.0.0.1 www.internetdownloadmanager.com
 127.0.0.1 internetdownloadmanager.com
+
+#禁止utorrent
+127.0.0.1 www.utorrent.com
