@@ -9,9 +9,9 @@
 * Android 一键Go Hosts  
 https://play.google.com/store/apps/details?id=com.lerist.ghosts
 
-* 若为双栈，改ipv6 DNS最方便。  
+* 若为纯ipv6环境，改ipv6 DNS最方便。双栈环境此方法需禁用v4协议。  
 上海交通大学：2001:da8:8000:1:202:120:2:101  
-Google：2001:4860:4860::8888  
+Google：2001:4860:4860::8888
         2001:4860:4860::8844  
 
 ## Google-ipv6
