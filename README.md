@@ -6,13 +6,13 @@
 * 一键更改hosts工具：SwitchHosts。
 项目地址：https://github.com/oldj/SwitchHosts （多平台）
 
-* Android 一键Go Hosts
+* Android 一键Go Hosts  
 https://play.google.com/store/apps/details?id=com.lerist.ghosts
 
-* 若为双栈，改ipv6 DNS最方便。
-上海交通大学：2001:da8:8000:1:202:120:2:101
-Google：2001:4860:4860::8888
-        2001:4860:4860::8844
+* 若为双栈，改ipv6 DNS最方便。  
+上海交通大学：2001:da8:8000:1:202:120:2:101  
+Google：2001:4860:4860::8888  
+        2001:4860:4860::8844  
 
 ## Google-ipv6
 https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
