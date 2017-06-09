@@ -40,3 +40,6 @@ https://raw.githubusercontent.com/rly61/hosts/master/Linux-hosts
 配合翻墙+去广告，另自选该项目中hosts。
 https://github.com/neoFelhz/neohosts
 
+## 自用ipv6
+https://github.com/rly61/hosts/edit/master/ipv6-hosts
+
