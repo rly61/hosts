@@ -30,3 +30,14 @@
 #东北大学ipv6
 2001:da8:9000::130 hdtv.neu6.edu.cn
 2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
+
+#Python
+2a04:4e42:6::223 pypi.python.org
+2001:4802:7901::e60a:1375:0:6 www.python.org
+
+# Openload
+2400:cb00:2048:1::6810:a532 openload.co
+2400:cb00:2048:1::6810:a632 openload.co
+2400:cb00:2048:1::6810:a432 openload.co
+2400:cb00:2048:1::6810:a732 openload.co
+2400:cb00:2048:1::6810:a832 openload.co
