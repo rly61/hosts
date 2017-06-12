@@ -72,6 +72,12 @@
 127.0.0.1 www.utorrent.com
 
 #Python
-#亲测可用
 2a04:4e42:6::223 pypi.python.org
 2001:4802:7901::e60a:1375:0:6 www.python.org
+
+# Openload
+2400:cb00:2048:1::6810:a532 openload.co
+2400:cb00:2048:1::6810:a632 openload.co
+2400:cb00:2048:1::6810:a432 openload.co
+2400:cb00:2048:1::6810:a732 openload.co
+2400:cb00:2048:1::6810:a832 openload.co
