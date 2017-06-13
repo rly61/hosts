@@ -5,14 +5,15 @@
 2a03:2880:f102:83:face:b00c:0:25de facebook.com
 
 # Netflix
-2a01:578:3::3430:182 netflix.com
-2a01:578:3::341f:14ee netflix.com
-2a01:578:3::341e:8e9f netflix.com
-2a01:578:3::341f:55a netflix.com
-2a01:578:3::3430:68aa netflix.com
-2a01:578:3::341e:80ed netflix.com
-2a01:578:3::341e:3b51 netflix.com
-2a01:578:3::341e:f0db netflix.com
+# 国内IP无法看视频
+#2a01:578:3::3430:182 netflix.com
+#2a01:578:3::341f:14ee netflix.com
+#2a01:578:3::341e:8e9f netflix.com
+#2a01:578:3::341f:55a netflix.com
+#2a01:578:3::3430:68aa netflix.com
+#2a01:578:3::341e:80ed netflix.com
+#2a01:578:3::341e:3b51 netflix.com
+#2a01:578:3::341e:f0db netflix.com
 
 # fbcdn
 2a03:2880:f022:6:face:b00c::2 fbcdn.net
@@ -39,11 +40,4 @@
 2400:da00::dbf:0:6666 www.baidupcs.com
 2400:da00::dbf:0:6666 d.pcs.baidu.com
 2400:da00::dbf:0:6666 pcs.baidu.com
-
-## Openload
-2400:cb00:2048:1::6810:a532 openload.co
-2400:cb00:2048:1::6810:a632 openload.co
-2400:cb00:2048:1::6810:a432 openload.co
-2400:cb00:2048:1::6810:a732 openload.co
-2400:cb00:2048:1::6810:a832 openload.co
 
