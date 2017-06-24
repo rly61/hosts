@@ -61,6 +61,7 @@
 #iptv
 2001:da8:9000::130 hdtv.neu6.edu.cn
 2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
+2402:f000:1:405:166:111:5:99 iptv.tsinghua.edu.cn
 
 #禁止idm检查序列号
 127.0.0.1 registeridm.com
