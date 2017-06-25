@@ -22,3 +22,10 @@
 # Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 2620:10b:9006:600:dad3:85ff:fed9:ce24 blizzard.com
+
+# openload播放视频
+2400:cb00:2048:1::6810:9132 oloadcdn.net
+2400:cb00:2048:1::6810:9332 oloadcdn.net
+2400:cb00:2048:1::6810:9432 oloadcdn.net
+2400:cb00:2048:1::6810:9032 oloadcdn.net
+2400:cb00:2048:1::6810:9232 oloadcdn.net
