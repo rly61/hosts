@@ -36,9 +36,22 @@
 2a04:4e42:6::223 pypi.python.org
 2001:4802:7901::e60a:1375:0:6 www.python.org
 
+# Facebook
+2a03:2880:f102:83:face:b00c:0:25de facebook.com
+
+# fbcdn
+2a03:2880:f022:6:face:b00c::2 fbcdn.net
+
 # Openload
 2400:cb00:2048:1::6810:a532 openload.co
 2400:cb00:2048:1::6810:a632 openload.co
 2400:cb00:2048:1::6810:a432 openload.co
 2400:cb00:2048:1::6810:a732 openload.co
 2400:cb00:2048:1::6810:a832 openload.co
+
+# openload播放视频
+2400:cb00:2048:1::6810:9132 oloadcdn.net
+2400:cb00:2048:1::6810:9332 oloadcdn.net
+2400:cb00:2048:1::6810:9432 oloadcdn.net
+2400:cb00:2048:1::6810:9032 oloadcdn.net
+2400:cb00:2048:1::6810:9232 oloadcdn.net
