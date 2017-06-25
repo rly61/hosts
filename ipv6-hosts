@@ -25,3 +25,9 @@
 
 2400:cb00:2048:1::c629:d7a2 cloudflare.com
 2400:cb00:2048:1::c629:d6a2 cloudflare.com
+
+# yahoo
+2001:4998:44:204::a7 yahoo.com
+2001:4998:58:c02::a9 yahoo.com
+2001:4998:c:a06::2:4008 yahoo.com
+
