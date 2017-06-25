@@ -1,10 +1,6 @@
 # 自己搜集的ipv6 hosts。可能不好用。
 # 测试完毕添加至其它文件。
 
-# Facebook
-# 可用
-2a03:2880:f102:83:face:b00c:0:25de facebook.com
-
 # Netflix
 # 国内IP无法看视频
 #2a01:578:3::3430:182 netflix.com
@@ -16,16 +12,16 @@
 #2a01:578:3::341e:3b51 netflix.com
 #2a01:578:3::341e:f0db netflix.com
 
-# fbcdn
-2a03:2880:f022:6:face:b00c::2 fbcdn.net
-
 # Blizzard Entertainment 暴雪娱乐
 2620:10b:9006:600:dad3:85ff:fed9:ce24 ipv6.blizzard.com
 2620:10b:9006:600:dad3:85ff:fed9:ce24 blizzard.com
 
-# openload播放视频
-2400:cb00:2048:1::6810:9132 oloadcdn.net
-2400:cb00:2048:1::6810:9332 oloadcdn.net
-2400:cb00:2048:1::6810:9432 oloadcdn.net
-2400:cb00:2048:1::6810:9032 oloadcdn.net
-2400:cb00:2048:1::6810:9232 oloadcdn.net
+# cloudflare
+2400:cb00:2048:1::6813:c466 ajax.cloudflare.com
+2400:cb00:2048:1::6813:c266 ajax.cloudflare.com
+2400:cb00:2048:1::6813:c366 ajax.cloudflare.com
+2400:cb00:2048:1::6813:c166 ajax.cloudflare.com
+2400:cb00:2048:1::6813:c066 ajax.cloudflare.com
+
+2400:cb00:2048:1::c629:d7a2 cloudflare.com
+2400:cb00:2048:1::c629:d6a2 cloudflare.com
