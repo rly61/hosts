@@ -47,3 +47,7 @@
 # cdn-qdnetwork.com
 2400:cb00:2048:1::681f:59f8 cdn-qdnetwork.com
 2400:cb00:2048:1::681f:58f8 cdn-qdnetwork.com
+
+# javqd.com
+2400:cb00:2048:1::681b:8188 javqd.com
+2400:cb00:2048:1::681b:8088 javqd.com
