@@ -17,12 +17,6 @@ Google：2001:4860:4860::8888
 ## Google-ipv6
 https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
 
-## 其它ipv6
-https://github.com/popcorner/cernet-ipv6-hosts/edit/master/hosts
-  - 包含google。
-  - 长时间未更新。
-  - 未测试
-
 ## 去广告
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
