@@ -51,17 +51,14 @@
 #清影pt
 2001:da8:b800:219:217:227:126:94 pt.hit.edu.cn
 
-#禁止玩游戏
-119.75.218.70 ssjj.4399.com
-119.75.218.70 news.4399.com
-
-#禁止爱拍
-119.75.218.70 cf.aipai.com
-
 #iptv
 2001:da8:9000::130 hdtv.neu6.edu.cn
 2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
 2402:f000:1:405:166:111:5:99 iptv.tsinghua.edu.cn
+
+# ourbits.club
+2400:cb00:2048:1::681f:5c93 ourbits.club
+2400:cb00:2048:1::681f:5d93 ourbits.club
 
 #禁止idm检查序列号
 127.0.0.1 registeridm.com
@@ -95,3 +92,23 @@
 2400:cb00:2048:1::6810:9432 oloadcdn.net
 2400:cb00:2048:1::6810:9032 oloadcdn.net
 2400:cb00:2048:1::6810:9232 oloadcdn.net
+
+#oload.info
+2400:cb00:2048:1::6810:51fe oload.info
+2400:cb00:2048:1::6810:4ffe oload.info
+2400:cb00:2048:1::6810:50fe oload.info
+2400:cb00:2048:1::6810:52fe oload.info
+2400:cb00:2048:1::6810:4efe oload.info
+
+# streamcherry
+2400:cb00:2048:1::6819:475 streamcherry.com
+2400:cb00:2048:1::6819:375 streamcherry.com
+
+# streamango
+2400:cb00:2048:1::6814:462f streamango.com
+2400:cb00:2048:1::6814:452f streamango.com
+
+# Mega
+2001:67c:1998:2212::12 mega.nz
+2001:67c:1998:2212::10 mega.nz
+2001:978:2:aa::1d:2 mega.co.nz
