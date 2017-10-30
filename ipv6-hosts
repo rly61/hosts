@@ -1,5 +1,82 @@
 # 自己搜集的ipv6 hosts。可能不好用。
-# 测试完毕添加至其它文件。
+# 公用
+
+## 可用
+#北邮人pt
+2001:da8:215:4078:250:56ff:fe97:654d bt.byr.cn
+2001:da8:215:4078:250:56ff:fe97:654d tracker.byr.cn
+
+#北洋园pt
+2001:da8:a000:113::170 pttracker4.tju.edu.cn
+2001:da8:a000:113::170 pt.tju6.edu.cn
+
+#六维空间
+2001:da8:9000::232 bt.neu6.edu.cn
+
+# ourbits.club
+2400:cb00:2048:1::681f:5c93 ourbits.club
+2400:cb00:2048:1::681f:5d93 ourbits.club
+
+#IPTV
+2001:da8:9000::130 hdtv.neu6.edu.cn
+2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
+2402:f000:1:405:166:111:5:99 iptv.tsinghua.edu.cn
+
+#Python
+2a04:4e42:6::223 pypi.python.org
+2001:4802:7901::e60a:1375:0:6 www.python.org
+
+# Facebook
+2a03:2880:f102:83:face:b00c:0:25de facebook.com
+
+# fbcdn
+2a03:2880:f022:6:face:b00c::2 fbcdn.net
+
+# Messenger
+2a03:2880:f027:20e:face:b00c::2 messenger.com
+
+# Openload
+2400:cb00:2048:1::6810:a532 openload.co
+2400:cb00:2048:1::6810:a632 openload.co
+2400:cb00:2048:1::6810:a432 openload.co
+2400:cb00:2048:1::6810:a732 openload.co
+2400:cb00:2048:1::6810:a832 openload.co
+2400:cb00:2048:1::6810:7116 oload.stream
+2400:cb00:2048:1::6810:7216 oload.stream
+2400:cb00:2048:1::6810:7416 oload.stream
+2400:cb00:2048:1::6810:7316 oload.stream
+2400:cb00:2048:1::6810:7016 oload.stream
+2400:cb00:2048:1::6810:51fe oload.info
+2400:cb00:2048:1::6810:4ffe oload.info
+2400:cb00:2048:1::6810:50fe oload.info
+2400:cb00:2048:1::6810:52fe oload.info
+2400:cb00:2048:1::6810:4efe oload.info
+
+# openload播放视频
+2400:cb00:2048:1::6810:9132 oloadcdn.net
+2400:cb00:2048:1::6810:9332 oloadcdn.net
+2400:cb00:2048:1::6810:9432 oloadcdn.net
+2400:cb00:2048:1::6810:9032 oloadcdn.net
+2400:cb00:2048:1::6810:9232 oloadcdn.net
+
+# streamcherry
+2400:cb00:2048:1::6819:475 streamcherry.com
+2400:cb00:2048:1::6819:375 streamcherry.com
+
+# streamango
+2400:cb00:2048:1::6814:462f streamango.com
+2400:cb00:2048:1::6814:452f streamango.com
+
+# Mega
+2001:67c:1998:2212::12 mega.nz
+2001:67c:1998:2212::10 mega.nz
+2001:978:2:aa::1d:2 mega.co.nz
+
+# javqd.com
+2400:cb00:2048:1::681b:8188 javqd.com
+2400:cb00:2048:1::681b:8088 javqd.com
+
+## 测试
 
 # Netflix
 # 国内IP无法看视频
@@ -31,14 +108,6 @@
 2001:4998:58:c02::a9 yahoo.com
 2001:4998:c:a06::2:4008 yahoo.com
 
-# streamcherry
-2400:cb00:2048:1::6819:475 streamcherry.com
-2400:cb00:2048:1::6819:375 streamcherry.com
-
-# streamango
-2400:cb00:2048:1::6814:462f streamango.com
-2400:cb00:2048:1::6814:452f streamango.com
-
 # fruithosted.net
 2400:cb00:2048:1::6812:3b44 fruithosted.net
 2400:cb00:2048:1::6812:3a44 fruithosted.net
@@ -48,18 +117,12 @@
 2400:cb00:2048:1::681f:59f8 cdn-qdnetwork.com
 2400:cb00:2048:1::681f:58f8 cdn-qdnetwork.com
 
-# javqd.com
-2400:cb00:2048:1::681b:8188 javqd.com
-2400:cb00:2048:1::681b:8088 javqd.com
-
 # googlevideo.com
 2404:6800:4008:800::2004 googlevideo.com
 
-# ourbits.club
-2400:cb00:2048:1::681f:5c93 ourbits.club
-2400:cb00:2048:1::681f:5d93 ourbits.club
+# Piratebay
+2400:cb00:2048:1::681b:d81c thepiratebay.org
+2400:cb00:2048:1::681b:d91c thepiratebay.org
 
-# Mega
-2001:67c:1998:2212::12 mega.nz
-2001:67c:1998:2212::10 mega.nz
-2001:978:2:aa::1d:2 mega.co.nz
+# Telegram
+2001:67c:4e8:fa60:3::811:139 telegram.org
