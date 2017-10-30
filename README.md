@@ -20,9 +20,6 @@ https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
 ## 去广告
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
-## 去微博广告
-https://raw.githubusercontent.com/neoFelhz/adhost/master/weibohost
-
 ## 恶意网站
 http://dn-mwsl-hosts.qbox.me/hosts.txt
 
