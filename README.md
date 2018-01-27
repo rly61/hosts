@@ -10,6 +10,7 @@
 https://play.google.com/store/apps/details?id=com.lerist.ghosts
 
 * 若为纯ipv6环境，改ipv6 DNS最方便。双栈环境此方法需禁用v4协议。  
+
 上海交通大学：2001:da8:8000:1:202:120:2:101  
 Google：2001:4860:4860::8888
         2001:4860:4860::8844  
@@ -24,7 +25,7 @@ https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 http://dn-mwsl-hosts.qbox.me/hosts.txt
 
 ## 翻墙
-https://raw.githubusercontent.com/racaljk/hosts/master/hosts
+https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 
 ## Window自用
 https://raw.githubusercontent.com/rly61/hosts/master/Windows-hosts
