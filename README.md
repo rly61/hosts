@@ -16,27 +16,23 @@ Google：2001:4860:4860::8888
         2001:4860:4860::8844  
 
 ## Google-ipv6
+https://github.com/lennylxx/ipv6-hosts
+
 https://raw.githubusercontent.com/lennylxx/ipv6-hosts/master/hosts
 
 ## 去广告
+https://github.com/vokins/yhosts/blob/master/hosts.txt
+
 https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 
 ## 恶意网站
+http://www.mwsl.org.cn/mwsl-hostslist/
+
 http://dn-mwsl-hosts.qbox.me/hosts.txt
 
-## 翻墙
+## 翻墙(Ipv4)
+https://github.com/googlehosts/hosts
+
 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 
-## Window自用
-https://raw.githubusercontent.com/rly61/hosts/master/Windows-hosts
-
-## Ubuntu自用
-https://raw.githubusercontent.com/rly61/hosts/master/Linux-hosts
-
-## Android自用
-配合翻墙+去广告，另自选该项目中hosts。
-https://github.com/neoFelhz/neohosts
-
-## 自用ipv6
-https://raw.githubusercontent.com/rly61/hosts/master/ipv6-hosts
-
+## PT
