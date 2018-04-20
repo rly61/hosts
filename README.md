@@ -36,3 +36,11 @@ https://github.com/googlehosts/hosts
 https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 
 ## PT
+https://github.com/rly61/hosts/blob/master/PT-ipv6-hosts
+
+https://raw.githubusercontent.com/rly61/hosts/master/PT-ipv6-hosts
+
+## 常用网站
+https://github.com/rly61/hosts/blob/master/CommonlyUsed-Site-IPV6
+
+https://raw.githubusercontent.com/rly61/hosts/master/CommonlyUsed-Site-IPV6
