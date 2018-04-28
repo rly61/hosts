@@ -16,6 +16,10 @@
 #Python
 2a04:4e42:6::223 pypi.python.org
 2001:4802:7901::e60a:1375:0:6 www.python.org
+2a04:4e42::319 pythonhosted.org
+2a04:4e42:200::319 pythonhosted.org
+2a04:4e42:400::319 pythonhosted.org
+2a04:4e42:600::319 pythonhosted.org
 
 # Facebook
 2a03:2880:f102:83:face:b00c:0:25de facebook.com
