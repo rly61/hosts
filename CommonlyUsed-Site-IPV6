@@ -1,6 +1,9 @@
 # 清华大学开源镜像站
 2402:f000:1:416:101:6:6:178 mirrors6.tuna.tsinghua.edu.cn
 
+# 中国科学技术大学开源软件镜像
+2001:da8:d800:95::110 mirrors.ustc.edu.cn
+
 # 官方ubuntu源
 2001:67c:1562::16 security.ubuntu.com
 2001:67c:1360:8001::21 security.ubuntu.com
