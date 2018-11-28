@@ -5,10 +5,11 @@
 2001:da8:215:4078:250:56ff:fe97:654d tracker.byr.cn
 
 #北洋园pt
-202.113.13.170 pttracker4.tju.edu.cn
-2001:da8:a000:113::170 pttracker4.tju.edu.cn
+2606:4700:30::681f:4e86 pttracker6.tjupt.org
+2606:4700:30::681f:4f86 pttracker6.tjupt.org
 2400:cb00:2048:1::6812:2388 tjupt.org
 2400:cb00:2048:1::6812:2288 tjupt.org
+172.24.109.5 pttrackertju.tjupt.org
 
 #六维空间
 2001:da8:9000::232 bt.neu6.edu.cn
