@@ -9,14 +9,14 @@
 2606:4700:30::681f:4f86 pttracker6.tjupt.org
 2606:4700:30::681f:4e86 tjupt.org
 2606:4700:30::681f:4f86 tjupt.org
-172.24.109.5 pttrackertju.tjupt.org
+172.26.139.107 pttrackertju.tjupt.org
 
 #六维空间
 2001:da8:9000::232 bt.neu6.edu.cn
 
 # Ourbits.club
-2400:cb00:2048:1::681f:5c93 ourbits.club
-2400:cb00:2048:1::681f:5d93 ourbits.club
+2606:4700:30::681b:80bc ourbits.club
+2606:4700:30::681b:81bc ourbits.club
 
 # 蒲公英pt
 2001:250:1004:4034:2e0:4cff:fe69:817 npupt.com
