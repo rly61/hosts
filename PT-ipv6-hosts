@@ -9,7 +9,6 @@
 2606:4700:30::681f:4f86 pttracker6.tjupt.org
 2606:4700:30::681f:4e86 tjupt.org
 2606:4700:30::681f:4f86 tjupt.org
-172.26.139.107 pttrackertju.tjupt.org
 
 #六维空间
 2001:da8:9000::232 bt.neu6.edu.cn
@@ -33,5 +32,4 @@
 #IPTV
 2001:da8:9000::130 hdtv.neu6.edu.cn
 2001:da8:215:4009:250:56ff:fe97:659 tv.byr.cn
-2402:f000:1:405:166:111:5:99 iptv.tsinghua.edu.cn
 2403:ac00:0:4001::b092 tv6.ustc.edu.cn
